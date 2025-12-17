@@ -2,7 +2,7 @@
 def calculate_average(numbers):
     """
     Calculate the average of a list of numbers.
-    more details added.
+    check the corner  cases.
     """
     if not numbers:
         return 0
